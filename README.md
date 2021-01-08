@@ -4,7 +4,7 @@
   </a>
   <br>
 
-  A simple web application that uses Go and [Fiber](https://gofiber.io).
+  A simple web server that uses Go and [Fiber](https://gofiber.io).
 
 
 <p>
